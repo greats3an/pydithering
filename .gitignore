@@ -1,0 +1,5 @@
+demos
+__pychace__
+*.pyc
+*.db
+.vscode
